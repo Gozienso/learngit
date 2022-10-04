@@ -10,4 +10,8 @@
 
 6. O je mba enwe ilo -Gozie
 
+<<<<<<< HEAD
 I like black
+=======
+I like green
+>>>>>>> personal_color
